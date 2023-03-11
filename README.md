@@ -1,16 +1,15 @@
 # Hotmail-Validator
 Hotmail Validator
 
-Hotmail Validator 2023
-Check eMail is Valid or Not
+<p>Hotmail Validator 2023<br>Check eMail is Valid or Not</p>
 
-[![Hotmail Validator](https://user-images.githubusercontent.com/126732202/224477507-0f610a11-3929-4377-bd3a-b882ae826133.png "Hotmail Validator")
+[![Hotmail Validator](https://user-images.githubusercontent.com/126732202/224477507-0f610a11-3929-4377-bd3a-b882ae826133.png "Hotmail Validator")](https://youtu.be/qBeW3QmECbo)
 
-this tools for education,
-i dont support if it is used for crime
+<p>this tools for education,<br>
+i dont support if it is used for crime</p>
 
-not bounce checker
-<p>contact :</p>
-<p>telegram @p3w3g</p>
-<p>icq : 718898025</p>
-<p>https://youtu.be/qBeW3QmECbo</p>
+<p>not bounce checker</p>
+<p>contact :<br>
+telegram @p3w3g<br>
+icq : 718898025<br>
+https://youtu.be/qBeW3QmECbo</p>
